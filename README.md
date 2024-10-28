@@ -1,4 +1,3 @@
 # GoPro
-This is read me file
-this is in local repo
-hello
+//This is a simple project for demonstrating a website for rural women development
+//To use this website
